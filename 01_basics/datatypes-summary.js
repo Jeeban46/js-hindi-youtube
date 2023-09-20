@@ -40,3 +40,30 @@ console.log(typeof outsideTemp);
 console.log(typeof scoreValue);
 console.log(typeof myFunction);
 console.log(typeof anotherId);
+
+
+
+// ************************************************************
+
+
+// stack (primitive), Heap,(Non-primitive)
+
+
+let myYoutubename = "jeebanranjandotcom"
+
+let anothername = myYoutubename
+anothername = "chaiaurcode"
+
+console.log(anothername);
+console.log(myYoutubename);
+
+
+let userOne = {
+    email: "user@google.com",
+    upi: "user@ybl"
+}
+let userTwo = userOne
+userTwo.email = "jeeban@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
