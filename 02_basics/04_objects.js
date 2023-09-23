@@ -70,7 +70,14 @@ console.log(courseInstructor);
 console.log(instructor);
 
 
-{
-    name: "jeeban",
-    price:
-}
+// {
+// name: "jeeban",
+// price:"free",
+//  "coursename": "js in hindi",
+// }
+    
+    [
+        {},
+        {},
+        {}
+    ]
