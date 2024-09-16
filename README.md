@@ -11,3 +11,4 @@ Dynamic Typing: Variables can hold values of any data type, and their type can c
 Object-Oriented Programming: JavaScript supports object-oriented concepts like objects, classes, inheritance, and polymorphism.
 Asynchronous Programming: JavaScript is well-suited for asynchronous operations, allowing it to handle tasks concurrently without blocking the main thread.
 Cross-Platform Compatibility: JavaScript runs in web browsers on various operating systems, making it highly versatile.
+
